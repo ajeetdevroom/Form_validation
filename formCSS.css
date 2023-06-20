@@ -1,0 +1,9 @@
+label.form-label{
+    font-style:normal;
+    font-size: 15px;
+    font-weight: bold;
+    display: block !important;
+}
+.form-check-label{
+    display: block;
+}
